@@ -1,0 +1,7 @@
+.env
+ll_env
+
+
+config/__pycache__
+books/migrations
+books/__pycache__
