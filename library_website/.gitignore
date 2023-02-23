@@ -5,3 +5,5 @@ ll_env
 config/__pycache__
 books/migrations
 books/__pycache__
+api/__pycache__
+api/migrations
