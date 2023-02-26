@@ -2,4 +2,5 @@ ll_env
 .env
 
 config/__pycache__
+todos/__pycache__
 todos/migrations
