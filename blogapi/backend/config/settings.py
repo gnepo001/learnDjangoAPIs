@@ -44,7 +44,8 @@ INSTALLED_APPS = [
 
     #3rd party
     'rest_framework',
-    'rest_framework.authtoken', # new
+    'rest_framework.authtoken',
+    'dj_rest_auth',
 ]
 
 REST_FRAMEWORK = {
