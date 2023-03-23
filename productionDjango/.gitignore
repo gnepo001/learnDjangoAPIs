@@ -1,0 +1,7 @@
+ll_env
+
+django_project/__pycache__ 
+django_project/__init__.py
+
+pages/migrations
+pages/__init__.py
